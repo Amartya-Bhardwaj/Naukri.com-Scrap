@@ -1,0 +1,4 @@
+-A simple automation project of Naukri.com.
+-Extracting job title and job skills from the above website and upload into Naukri.csv
+-Library used :- Selenium, csv, BeautifulSoup
+- All the libraries are installed in venv virtual environment
